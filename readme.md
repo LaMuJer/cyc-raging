@@ -1,16 +1,9 @@
-# Three.js Journey
+<h1>Raging Tunnel 💜💥</h1>
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+<img src="https://user-images.githubusercontent.com/84236263/177547319-e60616b3-f8d6-41b5-8547-b6b7bbe520aa.png"></img>
 
-``` bash
-# Install dependencies (only the first time)
-npm install
+<hr>
 
-# Run the local server at localhost:8080
-npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-```
+<h1>Install</h1>
+<p>npm install</p>
+<p>npm run dev</p>
